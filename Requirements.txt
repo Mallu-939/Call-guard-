@@ -1,0 +1,4 @@
+fast api
+uvicon
+supabase
+pydantic
